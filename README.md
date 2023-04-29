@@ -9,6 +9,6 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="midu.dev" height="28px" width="28px" />
   </a>
   <a href="https://twitter.com/jenclerhv" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/Twitter-logo.png" alt="midudev" height="28px" width="28px" />
   </a>
 </p>
