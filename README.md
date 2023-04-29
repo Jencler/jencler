@@ -2,13 +2,13 @@
 
 <img alt="Curso de React js desde cero y con proyectos" src="https://user-images.githubusercontent.com/1561955/212888793-fd719e58-b0c2-4d03-9c55-38e3e79ebc17.png" width="500" />
 
-# Aprendiendo React ⚛️
+# Hola a todos! 👋 
 
 Curso para aprender **React** basado en proyectos.
 **[Todos los miércoles a las 18PM 🇪🇸 en Twitch](https://twitch.tv/midudev)**
 </div>
 
-Hola a todos! 👋
+
 
 ¡Bienvenidos a mi perfil de GitHub! Soy un apasionado del desarrollo web y me encanta crear sitios web increíbles y funcionales. Me encanta trabajar con tecnologías como HTML, CSS, JavaScript y React.
 
