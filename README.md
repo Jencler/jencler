@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="300" src="https://lh3.google.com/u/0/d/1TMcgmz9b3PbcvVrpeOFB09vPgPZU_g5c=w2000-h1196-iv1](https://drive.google.com/file/d/1SnPcC3Gs8GscCPoeWzXclCNfweOKqMbb/view" />
+   <img align="center" width="300" src="https://www.teahub.io/photos/full/176-1764078_4k-ultra-hd-hi-tech-wallpapers-desktop-backgrounds.jpg" />
    <h3 align="center">¡ Hola 👋 Soy Jencler! 👨🏻‍💻</h3>
 </p>
 
