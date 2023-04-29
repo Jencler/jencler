@@ -3,7 +3,7 @@
    <h3 align="center">¡ Hola Soy Jencler! 👋  👨🏻‍💻</h3>
 </p>
 
-<p align="center">¡Soy un apasionado del desarrollo web y me encanta <br > crear sitios web increíbles y funcionales. Me encanta trabajar con tecnologías como HTML, CSS, JavaScript y React.!</p>
+<p align="center">¡Soy un apasionado del desarrollo web y me encanta <br > crear sitios web increíbles y funcionales. Me encanta trabajar con <br > tecnologías como HTML, CSS, JavaScript y React.!</p>
 <p align="center">
   <a href="https://instagram.com/jencler" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
