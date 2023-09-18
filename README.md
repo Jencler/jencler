@@ -4,11 +4,10 @@
 </p>
 
 <p align="center">¡Soy un apasionado del <strong>desarrollo web</strong> y me encanta <br > crear sitios web increíbles y funcionales. Me encanta trabajar con <br > tecnologías como HTML, CSS, JavaScript y React.!</p>
+
 <p align="center">
   <a href="https://instagram.com/jencler" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="jencler" height="28px" width="28px" />
   </a>
-  <a href="https://twitter.com/jenclerhv" target="_blank">
-   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="jencler" height="28px" width="28px" />
-  </a>
+  
 </p>
