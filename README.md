@@ -1,9 +1,8 @@
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Jencler
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<h1 align="center">Hola 👋, Soy Jencler</h1>
+<h3 align="center">Un programador apasionado</h3>
+<p align="center">Soy un apasionado del desarrollo web, donde cada línea de código es una oportunidad para la creatividad. Me encanta explorar las últimas tecnologías como JavaScript, React y Node.js para transformar ideas en experiencias cautivadoras. Mi viaje en el desarrollo web es una emocionante montaña rusa de aprendizaje constante, y disfruto fusionando diseño y funcionalidad para crear sitios web vibrantes. La web es mi lienzo, y cada proyecto es una nueva aventura que me apasiona explorar y perfeccionar. 🚀</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
