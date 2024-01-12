@@ -32,14 +32,14 @@
 - Servidores en la nuve
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=gcp,firebase" />
   </a>
 </p>
 
 - Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
   </a>
 </p>
 
