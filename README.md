@@ -6,7 +6,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br><br>
+<br>
 
 <h3 align="left">Lenguages y Herramientas:</h3>
 
@@ -45,7 +45,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
