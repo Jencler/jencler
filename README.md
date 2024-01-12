@@ -69,11 +69,5 @@
   </tbody>
 </table>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
-
------
-Credits: [xiaoluoboding](https://github.com/xiaoluoboding)
-
-Last Edited on: 30/08/2020
+Last Edited on: 11/01/2024
