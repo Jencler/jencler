@@ -3,7 +3,7 @@
 
 <h1 align="center">Hola 👋, Soy Jencler</h1>
 <h3 align="center">Un programador apasionado</h3>
-<p align="center">Soy un apasionado del desarrollo web, donde cada línea de código es una oportunidad para la creatividad. Me encanta explorar las últimas tecnologías como JavaScript, React y Node.js para transformar ideas en experiencias cautivadoras. Mi viaje en el desarrollo web es una emocionante montaña rusa de aprendizaje constante, y disfruto fusionando diseño y funcionalidad para crear sitios web vibrantes. La web es mi lienzo, y cada proyecto es una nueva aventura que me apasiona explorar y perfeccionar. 🚀</p>
+<p align="center">Soy un apasionado del desarrollo web, donde cada línea de código es una oportunidad para la creatividad. Me encanta explorar las últimas tecnologías como JavaScript, React, NextJS y Node.js para transformar ideas en experiencias cautivadoras. Mi viaje en el desarrollo web es una emocionante montaña rusa de aprendizaje constante, y disfruto fusionando diseño y funcionalidad para crear sitios web vibrantes. La web es mi lienzo, y cada proyecto es una nueva aventura que me apasiona explorar y perfeccionar. 🚀</p>
 
 
 
@@ -52,4 +52,4 @@
 
 <br>
 
-Última modificación: 11/01/2024
+Última modificación: 11/05/2025
